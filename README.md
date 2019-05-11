@@ -1,3 +1,3 @@
 # php-forum
-Es un forum que esta echo por php que consiste de diferents partes:
-1.[inici](https://github.com/omarkass/php-forum/blob/master/inici.php):es para direccionar al operacion que quieres ahcer
+#Es un foro que está hecho por php que te permite hacer les operaciones básicas de un foro como [putxet](https://github.com/omarkass/php-forum/blob/master/putxet.php),[consulta](https://github.com/omarkass/php-forum/blob/master/CONSULTAR.php)y[delete](https://github.com/omarkass/php-forum/blob/master/delete.php)
+
